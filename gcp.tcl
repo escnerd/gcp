@@ -20,7 +20,7 @@
 #
 # Arguments Details:
 # 
-# [0] hosts		- text file containing a list of hosts or IP addresses
+# [0] hosts	- text file containing a list of hosts or IP addresses
 # [1] arista 	- text file with a list of EOS commands to push
 # [2] cisco 	- text file with a list of IOS commands to push
 # [3] juniper 	- text file with a list of JunOS commands to push
