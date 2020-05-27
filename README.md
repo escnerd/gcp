@@ -1,7 +1,7 @@
 # gcp
 
  "Global Command Pusher (gcp)" - September 2017
- Written & Maintained by: Will Phan <willphan.re@gmail.com>
+ Written & Maintained by: Will Phan <wp@escnerd.com>
  This Tcl/expect script is used to push different sets of configurations
  based on a host's vendor. Currently the script will handle the following
  vendors:
